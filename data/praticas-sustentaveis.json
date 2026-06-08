@@ -1,0 +1,174 @@
+{
+  "praticas_sustentaveis": [
+    {
+      "id": 1,
+      "nome": "Compostagem",
+      "categoria": "Gestão de Resíduos",
+      "dificuldade": "Baixa",
+      "custo": "Baixo",
+      "tempo_implementacao": "1-2 meses",
+      "beneficios": [
+        "Reduz resíduos orgânicos",
+        "Produz adubo natural",
+        "Melhora qualidade do solo",
+        "Reduz custos com fertilizantes"
+      ],
+      "materiais_necessarios": [
+        "Resíduos orgânicos",
+        "Local ventilado",
+        "Água"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Media",
+        "preservacao_solo": "Alta",
+        "economia_agua": "Baixa"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Rotação de Culturas",
+      "categoria": "Agricultura",
+      "dificuldade": "Média",
+      "custo": "Baixo",
+      "tempo_implementacao": "2-3 anos",
+      "beneficios": [
+        "Reduz pragas e doenças",
+        "Melhora fertilidade do solo",
+        "Diversifica renda",
+        "Reduz uso de agrotóxicos"
+      ],
+      "materiais_necessarios": [
+        "Sementes variadas",
+        "Planejamento anual",
+        "Registros de safras"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Alta",
+        "preservacao_solo": "Alta",
+        "economia_agua": "Média"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Captação de Água da Chuva",
+      "categoria": "Conservação de Água",
+      "dificuldade": "Média",
+      "custo": "Médio",
+      "tempo_implementacao": "1-2 meses",
+      "beneficios": [
+        "Reduz consumo de água",
+        "Armazena água para períodos secos",
+        "Diminui custos com água",
+        "Reduz erosão"
+      ],
+      "materiais_necessarios": [
+        "Cisternas ou reservatórios",
+        "Calhas e canos",
+        "Filtros",
+        "Sistema de distribuição"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Baixa",
+        "preservacao_solo": "Média",
+        "economia_agua": "Muito Alta"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Plantio Direto",
+      "categoria": "Agricultura",
+      "dificuldade": "Alta",
+      "custo": "Alto",
+      "tempo_implementacao": "3-5 anos",
+      "beneficios": [
+        "Reduz erosão do solo",
+        "Economiza combustível",
+        "Aumenta matéria orgânica",
+        "Melhora retenção de água"
+      ],
+      "materiais_necessarios": [
+        "Máquinas apropriadas",
+        "Cobertura vegetal",
+        "Sementes de qualidade",
+        "Capacitação técnica"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Muito Alta",
+        "preservacao_solo": "Muito Alta",
+        "economia_agua": "Alta"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Horta Agroecológica",
+      "categoria": "Agricultura",
+      "dificuldade": "Baixa",
+      "custo": "Baixo",
+      "tempo_implementacao": "1 mês",
+      "beneficios": [
+        "Produção local de alimentos",
+        "Educação ambiental",
+        "Alimentos saudáveis",
+        "Renda complementar"
+      ],
+      "materiais_necessarios": [
+        "Terra e adubo",
+        "Sementes",
+        "Ferramentas básicas",
+        "Água"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Média",
+        "preservacao_solo": "Alta",
+        "economia_agua": "Média"
+      }
+    },
+    {
+      "id": 6,
+      "nome": "Energia Solar",
+      "categoria": "Energia Renovável",
+      "dificuldade": "Alta",
+      "custo": "Muito Alto",
+      "tempo_implementacao": "2-3 meses",
+      "beneficios": [
+        "Energia limpa e renovável",
+        "Reduz custos de energia",
+        "Independência energética",
+        "Reduz emissões de CO2"
+      ],
+      "materiais_necessarios": [
+        "Painéis solares",
+        "Inversores",
+        "Baterias de armazenamento",
+        "Estrutura de montagem"
+      ],
+      "impacto_ambiental": {
+        "reducao_carbono": "Muito Alta",
+        "preservacao_solo": "Baixa",
+        "economia_agua": "Baixa"
+      }
+    }
+  ],
+  "categorias": [
+    {
+      "id": "agricultura",
+      "nome": "Agricultura",
+      "descricao": "Práticas relacionadas ao cultivo e manejo de plantas"
+    },
+    {
+      "id": "agua",
+      "nome": "Conservação de Água",
+      "descricao": "Técnicas para economizar e preservar água"
+    },
+    {
+      "id": "energia",
+      "nome": "Energia Renovável",
+      "descricao": "Fontes limpas de energia"
+    },
+    {
+      "id": "residuos",
+      "nome": "Gestão de Resíduos",
+      "descricao": "Manejo e redução de desperdícios"
+    }
+  ]
+}
